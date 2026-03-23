@@ -17,9 +17,4 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 📈 GitHub Stats
-![Thathinon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-> *Note: Don't forget to replace `YOUR_GITHUB_USERNAME` in the link above with your actual GitHub username!*
 
----
-📫 **How to reach me:** Feel free to connect or drop a message if you want to talk about tech, Linux distros, or even car mods!
